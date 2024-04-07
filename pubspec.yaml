@@ -20,4 +20,4 @@ flutter:
   fonts:
     - family: yakforward
       fonts:
-        - asset: fonts/icon.ttf
+        - asset: lib/icon.ttf
