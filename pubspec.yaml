@@ -1,5 +1,5 @@
-name: brand
-description: "icon for yakforward products"
+name: yakforward_brand
+description: "assets and flutter widgets for Yakforward OÜ brand"
 version: 1.0.0
 homepage: www.yakforward.com
 
@@ -12,11 +12,12 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_lints: ^3.0.1
+  flutter_lints: ^3.0.2
 
 flutter:
   assets:
     - lib/logo.png
+    - lib/icon.ttf
   fonts:
     - family: yakforward
       fonts:

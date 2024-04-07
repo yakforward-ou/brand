@@ -1,5 +1,6 @@
-import 'dart:ui';
+import 'package:flutter/widgets.dart';
 
+@immutable
 final class BrandColors {
   const BrandColors();
   static const orange = Color(0xffFF9600);
